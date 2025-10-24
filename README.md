@@ -2,6 +2,12 @@
 
 > 此项目修改自：https://github.com/yanboc/LaTeX-CV-template-for-Wuhan-University
 
+## 效果
+
+简历展示效果如下。
+
+![简历展示](./ustc_cv.jpg)
+
 
 ## 版权与字体
 本模板使用的字体为开源字体狮尾四季春，详见
