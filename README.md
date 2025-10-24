@@ -1,5 +1,7 @@
 # USTC中国科学技术大学中文简历模板
 
+此项目Github: https://github.com/JunyangZhangUSTC/LaTeX-CV-template-for-USTC
+
 > 此项目修改自：https://github.com/yanboc/LaTeX-CV-template-for-Wuhan-University
 
 ## 使用方法
